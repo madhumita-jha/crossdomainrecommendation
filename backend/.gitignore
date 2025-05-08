@@ -1,0 +1,19 @@
+# Ignore the .env file to keep sensitive data safe
+.env
+
+# Python related
+__pycache__/
+*.pyc
+
+# Flask specific
+instance/
+*.log
+
+# VS Code settings (optional, if you're using VS Code)
+.vscode/
+
+# Virtual environment
+venv/
+
+# Cache and build files
+.cache/
