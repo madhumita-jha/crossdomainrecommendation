@@ -13,7 +13,7 @@ This project is a **Cross-Domain Recommendation System** built using **Transfer 
 - Clean UI built with **React.js**
 - Backend powered by **Flask** and external APIs
 - Recommendation logic powered by deep learning and content-based filtering
-- Works without a traditional database — all data is loaded from CSV files and APIs
+- Works without a traditional database — all data is loaded APIs
 
 ---
 
@@ -22,7 +22,7 @@ This project is a **Cross-Domain Recommendation System** built using **Transfer 
 **Frontend:**
 - React.js
 - Axios
-- Tailwind CSS (optional)
+- Tailwind CSS
 
 **Backend:**
 - Python (Flask)
@@ -35,11 +35,5 @@ This project is a **Cross-Domain Recommendation System** built using **Transfer 
 - 📚 [OpenLibrary API](https://openlibrary.org/developers/api)
 - 🎧 [Spotify API](https://developer.spotify.com/)
 - 🤗 [Hugging Face Transformers](https://huggingface.co/)
-
-## 📊 Datasets Used
-
-- `movie_data.csv` — Movie details (title, genre, etc.)
-- `music_data.csv` — Spotify track info (popularity, danceability, energy, etc.)
-- `books_data.csv` — Book metadata (title, author, genre, etc.)
 
 ---
